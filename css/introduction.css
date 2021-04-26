@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.shang{
+	width: 1000;
+	height:500px;
+	border: 10px solid;
+	border: 3px solid;
+}
+.shang1{
+	padding-left: 380px;
+	padding-top: 30px;
+	height:220px;
+	background-color: #127bab;
+}
+.shangnei{
+	border-radius: 10px;
+	background-color: aliceblue;
+	width: 300px;
+	height: 400px;
+	border: 3px solid;	
+}
+.shangnei1{
+	margin-top: 30px;
+	margin-left: 45px;
+	width:200px;
+	height: 300px;
+	border-radius: 12px;;
+	border: 3px solid;
+}
+.shangnei1 img {
+	border-radius: 10px;
+}
+.shangnei ul li {
+	padding-left: 70px;
+	list-style: none;/*清除圆点*/
+}
+.shangnei2{
+	float: left;
+	margin-left: 685px;
+	width: 500px;
+	height: 180px;
+	border-radius: 4px;
+	border: 3px solid;
+}
+.shangnei2 ul li{
+	padding-bottom: 4px;
+	padding-left: 20px;
+	list-style: none;
+}
+.shangnei2 ul li h4{
+	padding-top: 10px;
+	font-size: 30px;
+}
+.shangnei3 {
+	float: left;
+	padding-left:400px; 
+}
+.xs p{
+	padding-top: 20px;
+	margin-left: 600px;
+}
