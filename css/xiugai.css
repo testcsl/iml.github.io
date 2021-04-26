@@ -1,0 +1,19 @@
+/*文章管理-编辑*/
+.wrap-article-edit{width:98%;min-width:770px;}
+.wrap-article-edit .box-body{padding:15px 40px 25px 30px;}
+.wrap-article-edit table{width:100%;}
+.wrap-article-edit th{padding:12px 0;font-weight:normal;text-align:right;vertical-align:top;}
+.wrap-article-edit input[type=submit]{padding:5px 10px;cursor:pointer;margin-right:20px;}
+.wrap-article-edit input[type=text]{padding:6px;border:1px solid #bbb;font-size:14px;color:#666;width:550px;box-shadow:inset 0 1px 2px rgba(0,0,0,.1);}
+.wrap-article-edit select{padding:5px 14px 5px 5px;padding-right:12px;border:1px solid #bbb;font-size:14px;color:#666;box-shadow:inset 0 1px 2px rgba(0,0,0,.1);}
+.wrap-article-edit .s-author input{width:150px;}
+.wrap-article-edit .s-editor td{padding-top:10px;}
+.wrap-article-edit .s-thumb td{padding:10px 0;}
+.wrap-article-edit .s-thumb img{margin-top:12px;max-width:610px;display:block;}
+.wrap-article-edit .s-thumb span{font-size:12px;color:#666;margin-top:10px;display:block;}
+.wrap-article-edit .s-keywords input{width:350px;}
+.wrap-article-edit .s-keywords span{font-size:12px;color:#666;margin-left:10px;}
+.wrap-article-edit .s-description textarea{border:1px solid #bbb;padding:6px;font-size:14px;color:#666;box-shadow:inset 0 1px 2px rgba(0,0,0,.1);width:98%;height:50px;}
+.wrap-article-edit .s-description span{font-size:12px;color:#666;}
+.wrap-article-edit .s-description td{padding:5px 0;}
+.wrap-article-edit .s-act td{height:50px;padding-top:5px;}

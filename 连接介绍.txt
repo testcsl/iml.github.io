@@ -1,0 +1,12 @@
+about-关于我
+movie-电影
+software-软件分享
+movie sharing-电影分享
+photo-照片分享
+footer-人
+header-人2
+index-主页
+contact-留
+resources-最新资源
+new movies-最新电影
+the latest software-最新软件
