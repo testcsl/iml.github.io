@@ -81,7 +81,7 @@ new Vue({
         }
       {
           id: "6",
-          name: "youn",
+          name: "young",
           artist: "我们曾经年轻过",
           cover: "./assets/cover/young.jpg",
           source: "./assets/music/young.mp3",
