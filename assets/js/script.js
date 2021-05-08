@@ -78,7 +78,7 @@ new Vue({
           source: "./assets/music/9.mp3",
           url: "#",
           favorited: false
-        }
+        },
       {
           id: "6",
           name: "young",
