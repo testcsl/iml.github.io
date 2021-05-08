@@ -74,7 +74,7 @@ new Vue({
           id: "5",
           name: "Mina",
           artist: "Christophe Rezai",
-          cover: "./assets/cover/mina.jpg",
+          cover: "./assets/cover/zz.jpg",
           source: "./assets/music/9.mp3",
           url: "#",
           favorited: false
