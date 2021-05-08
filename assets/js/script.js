@@ -79,6 +79,15 @@ new Vue({
           url: "#",
           favorited: false
         }
+      {
+          id: "6",
+          name: "young",
+          artist: "我们曾经年轻过",
+          cover: "./assets/cover/young.jpg",
+          source: "./assets/music/young.mp3",
+          url: "#",
+          favorited: false
+        }
       ],
       currentTrack: null,
       currentTrackIndex: 0,
